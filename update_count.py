@@ -7,6 +7,7 @@ from datetime import datetime, timedelta
 
 
 BAEKJOON_LEVELS = [
+    ("Bronze", "Bronze"),
     ("Silver", "Silver"),
     ("Gold", "Gold"),
     ("Platinum", "Platinum"),
