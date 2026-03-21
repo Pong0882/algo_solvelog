@@ -19,7 +19,7 @@ PROGRAMMERS_LEVELS = [
     ("5", "Lv. 5"),
 ]
 
-GITHUB_REPO_URL = "https://github.com/MindySo/algo_solvelog/tree/main"
+GITHUB_REPO_URL = "https://github.com/Pong0882/algo_solvelog/tree/main"
 
 
 def count_problems(base_dir):
