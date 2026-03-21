@@ -4,7 +4,7 @@
 ## 문제 개수
 <!-- COUNT_START -->
 
-### 해결한 문제 : 0 개
+### 해결한 문제 : 1 개
 
 <table>
   <thead>
@@ -16,7 +16,11 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan="3" align="center" valign="middle"><b>백준</b></td>
+      <td rowspan="4" align="center" valign="middle"><b>백준</b></td>
+      <td align="center">Bronze</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
       <td align="center">Silver</td>
       <td align="center">0</td>
     </tr>
@@ -51,7 +55,7 @@
     </tr>
     <tr>
       <td colspan="2" align="center"><b>총합</b></td>
-      <td align="center"><b>0</b></td>
+      <td align="center"><b>1</b></td>
     </tr>
   </tbody>
 </table>
