@@ -6,11 +6,11 @@
 <!-- STATS_START -->
 <table>
     <tbody>
-        <tr><td rowspan="5" align="center" valign="middle" width="155"><b>🔥Current Streak</b><br><h3>1일째</h3><sub>2026.3.21 ~ 2026.3.21</sub></td></tr>
-        <th align="center">날짜</th><td align="center"><sub>26.03.21</sub></td></tr>
-        <tr><th align="center">문제 수</th><td align="center">1</td></tr>
-        <tr><th align="center">문제 링크</th><td align="center"><sub><a href="https://www.acmicpc.net/problem/1000">b.1000</a></sub></td></tr>
-        <tr><th align="center">풀이 링크</th><td align="center"><a href="https://github.com/Pong0882/algo_solvelog/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1000.%E2%80%85A%EF%BC%8BB">🔗</a></td></tr>
+        <tr><td rowspan="5" align="center" valign="middle" width="155"><b>🔥Current Streak</b><br><h3>1일째</h3><sub>2026.3.25 ~ 2026.3.25</sub></td></tr>
+        <th align="center">날짜</th><td align="center"><sub>26.03.21</sub></td><td align="center"><sub>26.03.25</sub></td></tr>
+        <tr><th align="center">문제 수</th><td align="center">1</td><td align="center">1</td></tr>
+        <tr><th align="center">문제 링크</th><td align="center"><sub><a href="https://www.acmicpc.net/problem/1000">b.1000</a></sub></td><td align="center"><sub><a href="https://www.acmicpc.net/problem/21940">b.21940</a></sub></td></tr>
+        <tr><th align="center">풀이 링크</th><td align="center"><a href="https://github.com/Pong0882/algo_solvelog/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1000.%E2%80%85A%EF%BC%8BB">🔗</a></td><td align="center"><a href="https://github.com/Pong0882/algo_solvelog/tree/main/%EB%B0%B1%EC%A4%80/Gold/21940.%E2%80%85%EA%B0%80%EC%9A%B4%EB%8D%B0%EC%97%90%EC%84%9C%E2%80%85%EB%A7%8C%EB%82%98%EA%B8%B0">🔗</a></td></tr>
     </tbody>
 </table>
 <!-- STATS_END -->
@@ -18,7 +18,7 @@
 ## 📊 풀이 현황
 <!-- COUNT_START -->
 
-### 해결한 문제 : 1 개
+### 해결한 문제 : 2 개
 
 <table>
   <thead>
@@ -40,7 +40,7 @@
     </tr>
     <tr>
       <td align="center">Gold</td>
-      <td align="center">0</td>
+      <td align="center">1</td>
     </tr>
     <tr>
       <td align="center">Platinum</td>
@@ -69,7 +69,7 @@
     </tr>
     <tr>
       <td colspan="2" align="center"><b>총합</b></td>
-      <td align="center"><b>1</b></td>
+      <td align="center"><b>2</b></td>
     </tr>
   </tbody>
 </table>
