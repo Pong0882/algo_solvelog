@@ -1,6 +1,8 @@
 # ✏️ algo_solvelog &nbsp; <sub><a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logoColor=white" /></a>&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" /></a></sub>
 
 하루에 한 문제씩 알고리즘 풀기
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pong0882)](https://solved.ac/pong0882/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=HelloPong)](https://solved.ac/HelloPong/)
 
 ## 📆 최근 풀이 기록
 <!-- STATS_START -->
