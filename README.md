@@ -9,11 +9,11 @@
 <!-- STATS_START -->
 <table>
     <tbody>
-        <tr><td rowspan="5" align="center" valign="middle" width="155"><b>🔥Current Streak</b><br><h3>1일째</h3><sub>2026.4.13 ~ 2026.4.13</sub></td></tr>
-        <th align="center">날짜</th><td align="center"><sub>26.04.02</sub></td><td align="center"><sub>26.04.03</sub></td><td align="center"><sub>26.04.04</sub></td><td align="center"><sub>26.04.06</sub></td><td align="center"><sub>26.04.08</sub></td><td align="center"><sub>26.04.11</sub></td><td align="center"><sub>26.04.13</sub></td></tr>
-        <tr><th align="center">문제 수</th><td align="center">2</td><td align="center">1</td><td align="center">1</td><td align="center">1</td><td align="center">1</td><td align="center">1</td><td align="center">2</td></tr>
-        <tr><th align="center">문제 링크</th><td align="center"><sub><a href="https://school.programmers.co.kr/learn/courses/30/lessons/468373">p.468373</a></sub></td><td align="center"><sub><a href="https://www.acmicpc.net/problem/6236">b.6236</a></sub></td><td align="center"><sub><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12916">p.12916</a></sub></td><td align="center"><sub><a href="https://school.programmers.co.kr/learn/courses/30/lessons/389480">p.389480</a></sub></td><td align="center"><sub><a href="https://www.acmicpc.net/problem/17141">b.17141</a></sub></td><td align="center"><sub><a href="https://school.programmers.co.kr/learn/courses/30/lessons/298518">p.298518</a></sub></td><td align="center"><sub><a href="https://www.acmicpc.net/problem/18429">b.18429</a></sub></td></tr>
-        <tr><th align="center">풀이 링크</th><td align="center"><a href="https://github.com/Pong0882/algo_solvelog/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2/468373.%E2%80%85%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4%E2%80%85%ED%8C%8C%EC%9D%B4%ED%94%84">🔗</a></td><td align="center"><a href="https://github.com/Pong0882/algo_solvelog/tree/main/%EB%B0%B1%EC%A4%80/Silver/6236.%E2%80%85%EC%9A%A9%EB%8F%88%E2%80%85%EA%B4%80%EB%A6%AC">🔗</a></td><td align="center"><a href="https://github.com/Pong0882/algo_solvelog/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12916.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%82%B4%E2%80%85p%EC%99%80%E2%80%85y%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98">🔗</a></td><td align="center"><a href="https://github.com/Pong0882/algo_solvelog/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2/389480.%E2%80%85%EC%99%84%EC%A0%84%EB%B2%94%EC%A3%84">🔗</a></td><td align="center"><a href="https://github.com/Pong0882/algo_solvelog/tree/main/%EB%B0%B1%EC%A4%80/Gold/17141.%E2%80%85%EC%97%B0%EA%B5%AC%EC%86%8C%E2%80%852">🔗</a></td><td align="center"><a href="https://github.com/Pong0882/algo_solvelog/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2/298518.%E2%80%85%ED%8A%B9%EC%A0%95%E2%80%85%EB%AC%BC%EA%B3%A0%EA%B8%B0%EB%A5%BC%E2%80%85%EC%9E%A1%EC%9D%80%E2%80%85%EC%B4%9D%E2%80%85%EC%88%98%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0">🔗</a></td><td align="center"><a href="https://github.com/Pong0882/algo_solvelog/tree/main/%EB%B0%B1%EC%A4%80/Silver/18429.%E2%80%85%EA%B7%BC%EC%86%90%EC%8B%A4">🔗</a></td></tr>
+        <tr><td rowspan="5" align="center" valign="middle" width="155"><b>🔥Current Streak</b><br><h3>2일째</h3><sub>2026.4.13 ~ 2026.4.14</sub></td></tr>
+        <th align="center">날짜</th><td align="center"><sub>26.04.03</sub></td><td align="center"><sub>26.04.04</sub></td><td align="center"><sub>26.04.06</sub></td><td align="center"><sub>26.04.08</sub></td><td align="center"><sub>26.04.11</sub></td><td align="center"><sub>26.04.13</sub></td><td align="center"><sub>26.04.14</sub></td></tr>
+        <tr><th align="center">문제 수</th><td align="center">1</td><td align="center">1</td><td align="center">1</td><td align="center">1</td><td align="center">1</td><td align="center">2</td><td align="center">1</td></tr>
+        <tr><th align="center">문제 링크</th><td align="center"><sub><a href="https://www.acmicpc.net/problem/6236">b.6236</a></sub></td><td align="center"><sub><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12916">p.12916</a></sub></td><td align="center"><sub><a href="https://school.programmers.co.kr/learn/courses/30/lessons/389480">p.389480</a></sub></td><td align="center"><sub><a href="https://www.acmicpc.net/problem/17141">b.17141</a></sub></td><td align="center"><sub><a href="https://school.programmers.co.kr/learn/courses/30/lessons/298518">p.298518</a></sub></td><td align="center"><sub><a href="https://www.acmicpc.net/problem/18429">b.18429</a></sub></td><td align="center"><sub><a href="https://www.acmicpc.net/problem/1495">b.1495</a></sub></td></tr>
+        <tr><th align="center">풀이 링크</th><td align="center"><a href="https://github.com/Pong0882/algo_solvelog/tree/main/%EB%B0%B1%EC%A4%80/Silver/6236.%E2%80%85%EC%9A%A9%EB%8F%88%E2%80%85%EA%B4%80%EB%A6%AC">🔗</a></td><td align="center"><a href="https://github.com/Pong0882/algo_solvelog/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12916.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%82%B4%E2%80%85p%EC%99%80%E2%80%85y%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98">🔗</a></td><td align="center"><a href="https://github.com/Pong0882/algo_solvelog/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2/389480.%E2%80%85%EC%99%84%EC%A0%84%EB%B2%94%EC%A3%84">🔗</a></td><td align="center"><a href="https://github.com/Pong0882/algo_solvelog/tree/main/%EB%B0%B1%EC%A4%80/Gold/17141.%E2%80%85%EC%97%B0%EA%B5%AC%EC%86%8C%E2%80%852">🔗</a></td><td align="center"><a href="https://github.com/Pong0882/algo_solvelog/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2/298518.%E2%80%85%ED%8A%B9%EC%A0%95%E2%80%85%EB%AC%BC%EA%B3%A0%EA%B8%B0%EB%A5%BC%E2%80%85%EC%9E%A1%EC%9D%80%E2%80%85%EC%B4%9D%E2%80%85%EC%88%98%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0">🔗</a></td><td align="center"><a href="https://github.com/Pong0882/algo_solvelog/tree/main/%EB%B0%B1%EC%A4%80/Silver/18429.%E2%80%85%EA%B7%BC%EC%86%90%EC%8B%A4">🔗</a></td><td align="center"><a href="https://github.com/Pong0882/algo_solvelog/tree/main/%EB%B0%B1%EC%A4%80/Silver/1495.%E2%80%85%EA%B8%B0%ED%83%80%EB%A6%AC%EC%8A%A4%ED%8A%B8">🔗</a></td></tr>
     </tbody>
 </table>
 <!-- STATS_END -->
@@ -21,7 +21,7 @@
 ## 📊 풀이 현황
 <!-- COUNT_START -->
 
-### 해결한 문제 : 19 개
+### 해결한 문제 : 20 개
 
 <table>
   <thead>
@@ -39,7 +39,7 @@
     </tr>
     <tr>
       <td align="center">Silver</td>
-      <td align="center">3</td>
+      <td align="center">4</td>
     </tr>
     <tr>
       <td align="center">Gold</td>
@@ -72,7 +72,7 @@
     </tr>
     <tr>
       <td colspan="2" align="center"><b>총합</b></td>
-      <td align="center"><b>19</b></td>
+      <td align="center"><b>20</b></td>
     </tr>
   </tbody>
 </table>
